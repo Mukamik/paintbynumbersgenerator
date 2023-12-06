@@ -2,7 +2,7 @@
     "compilerOptions": {
         "noImplicitAny": true,
         "strict": true,
-        "noImplicitReturns": true,
+        "noImplicitReturns": false,
         "noImplicitThis": true,
         "strictNullChecks": true,
         "removeComments": false,
@@ -12,6 +12,6 @@
             "dom",
             "es2015",
             "es2015.promise"
-        ],
+        ]
     }
 }
